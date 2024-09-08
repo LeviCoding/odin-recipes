@@ -1,0 +1,1 @@
+In this project I will demonstrace my new HTML skills. I will not look good at all in the end, however I will showcase key functionalies used for web development. Specifically I will create a main HTML page and three linked sub pages. In there I will use img, lists and speak about recipes :)
